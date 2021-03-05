@@ -1,8 +1,9 @@
 # CV1-Anki
 
-Decks are orderd the following way CV1::\<lecture\>.
+Decks are orderd the following way `CV1::<lecture>`.
 
 Contains the following lectures:
+
 
 1. [B] Image Formation
 2. [B] Cameras Filtering
